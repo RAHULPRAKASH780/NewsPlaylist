@@ -23,3 +23,5 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0,Aaj Tak HD 720p
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Times Now Navbharat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News" ,Times Now Navbharat
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
